@@ -2,7 +2,7 @@ I design and developed some project .Like Portfolio, E-commerce, Non-profit orga
 http://www.healthpharma.com.bd/   ->     E-Commerce Website Currently Design and Developing  using Laravel
 https://www.katibgroup.com/      ->      E-Commerce ->Platform - WordPress
 http://www.chickymonkey.com ->           Portfolio->Platform - WordPress
-http://demoone.bdappsmaker.com/ ->       Blood Donation System ->Language- PHP (Codignator) [Note:this project I developed before about 2 years ago.Some functionality is not works]
+http://demoone.bdappsmaker.com/ ->       Blood Donation System ->Language- PHP (CodeIgniter) [Note:this project I developed before about 2 years ago.Some functionality is not works]
 http://rayhan.bdappsmaker.com/ -         Business Website Word press for Iphone mobile Repair Store - WordPress
 https://tomarbangla.com/  -              Blog Website for Cpa Marketting - WordPress
 http://demothree.bdappsmaker.com -       Blog Website - e107 CMS
